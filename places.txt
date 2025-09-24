@@ -1,0 +1,7 @@
+Paris|Eiffel Tower:1200,Louvre Museum:900,Notre-Dame Cathedral:500,Montmartre:400,Seine River Cruise:600,Champs Elysees:350
+London|British Museum:600,Tower of London:800,London Eye:700,Buckingham Palace:300,Camden Market:200,Hyde Park:150
+Tokyo|Senso-ji Temple:400,Shibuya Crossing:200,Tokyo Skytree:900,Meiji Shrine:300,Tsukiji Market:350,Odaiba:500
+New York|Statue of Liberty:800,Central Park:300,Metropolitan Museum:950,Times Square:150,Brooklyn Bridge:250,Empire State Building:400
+Sydney|Sydney Opera House:900,Harbour Bridge:300,Bondi Beach:200,Royal Botanic Garden:250,Taronga Zoo:600,Manly Beach:400
+Rome|Colosseum:700,St. Peter's Basilica:600,Fontana di Trevi:300,Pantheon:350,Spanish Steps:250,Vatican Museums:900
+Dubai|Burj Khalifa:1200,The Dubai Mall:400,Palm Jumeirah:500,Dubai Fountain:350,Desert Safari:800,Ski Dubai:600
