@@ -20,6 +20,13 @@ It allows users to:
 - `places.txt` → List of cities & places  
 
 ## ▶️ How to Run
+
+---
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/malini337/Smart-Travel-Planner.git
+   cd Smart-Travel-Planner
+
 1. Compile the program:
    ```bash
    javac SmartTravelPlanner.java
